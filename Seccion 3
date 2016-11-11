@@ -1,0 +1,15 @@
+#include <iostream>
+#include "Poligono.h"
+
+using namespace std;
+
+int main()
+{
+    Rectangle Pbas
+    Pbas= static_cast<Triangle *>(p);
+    if( Pbas = dynamic_cast<Triangle *>(p))
+    {
+        return Pbas resize[0];
+    }
+    return Pbas=Pbas->Point
+}
