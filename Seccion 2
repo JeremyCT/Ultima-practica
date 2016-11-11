@@ -1,0 +1,16 @@
+#include <iostream>
+#define min(x,y)(x<y?x:y)
+
+template <typename T>
+T min (const T t1, const T 2)
+{
+    return t1<t2?t1:t2;
+}
+
+
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
