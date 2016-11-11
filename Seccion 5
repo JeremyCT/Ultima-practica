@@ -14,7 +14,8 @@ public :
  };
 
 Grafo.cpp
- 
+ #include <iostream>
+#include <vector>
 # include <stdexcept>
 
 Graph :: Graph ( const vector <int > & startPoints , const vector <int > &
